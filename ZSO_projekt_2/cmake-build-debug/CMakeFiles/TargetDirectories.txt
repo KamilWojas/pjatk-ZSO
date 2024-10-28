@@ -1,0 +1,3 @@
+/Users/kamil/Desktop/Studia/ZSO_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kamil/Desktop/Studia/ZSO_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kamil/Desktop/Studia/ZSO_2/cmake-build-debug/CMakeFiles/ZSO_2.dir
